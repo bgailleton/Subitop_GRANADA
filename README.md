@@ -9,7 +9,7 @@ Model has been running for 2 millions years: Builduing the mountain range to ste
 
 **Evolution of the topography:**
 
-![Alt Text]https://github.com/bgailleton/Subitop_GRANADA/raw/master/topo.gif
+![Alt Text](https://github.com/bgailleton/Subitop_GRANADA/raw/master/topo.gif)
 
 
 
