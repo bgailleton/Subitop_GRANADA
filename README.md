@@ -5,4 +5,25 @@ Support git-hub repository for my poster in TopoEurope Conference, Granada, May 
 
 ## Model outputs
 
+Model has been running for 2 millions years: Builduing the mountain range to steady-state and then ponding the northern forland basin. It get filled by sediments and slightly uplifted, before being captured.
+
+**Evolution of the topography:**
+
+![Alt Text]https://github.com/bgailleton/Subitop_GRANADA/raw/master/topo.gif
+
+
+
+
+
+
+
+
+
+
+
+
+## Test to display gif on github
+
+Ignore that:
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
